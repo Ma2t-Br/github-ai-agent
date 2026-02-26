@@ -10,7 +10,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: matthieubrandao/github-ai-agent
+  IMAGE_NAME: ma2t-br/github-ai-agent
 
 jobs:
   build-and-push:
